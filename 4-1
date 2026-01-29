@@ -1,0 +1,5 @@
+﻿
+<!DOCTYPE albums [
+  <!ELEMENT Albums (descripcio)>
+  <!ELEMENT album (titol, pais, idioma, genere?, durada, descripcio, grup, sexe, nom, membres, numero_cansons)>
+]>
